@@ -8,3 +8,7 @@ Credit: https://github.com/zinx28
 
 Credit: https://github.com/eonfn/Launcher-V1
 Enjoy!
+
+
+
+Bug note: I found out that trying to go back to home screen is currently bugged, thankfully when you go to settings and click save your info does save you just have to reset the launcher, this will be fixed in the 1.0.1 Update that should be out like next week or so. Also my bday is tmr at the time of 3/6/25 :)
