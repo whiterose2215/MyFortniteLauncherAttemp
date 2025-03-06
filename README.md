@@ -6,5 +6,5 @@ If someone is using this without my credits find me on discord, my user is krabb
 Credit: https://github.com/zinx28
 
 
-credit: https://github.com/eonfn/Launcher-V1
+Credit: https://github.com/eonfn/Launcher-V1
 Enjoy!
